@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import {router} from "../../routes.ts";
 
 const navItems = [
   { text: 'MUSIC' },
