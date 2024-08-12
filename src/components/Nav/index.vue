@@ -23,6 +23,6 @@ const navItems = [
         </a>
       </li>
     </ul>
-    <a href="/demo" class="flex justify-center items-center bg-transparent font-semibold bg-white text-white rounded-full border-2 border-white w-[6rem] h-[3rem] hover:bg-white hover:text-black transition-all">DEMO</a>
+    <a href="/demo" class="flex justify-center items-center bg-transparent font-semibold bg-trasparent text-white rounded-full border-2 border-white w-[6rem] h-[3rem] hover:bg-white hover:text-black transition-all">DEMO</a>
   </div>
 </template>
