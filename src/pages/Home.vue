@@ -5,7 +5,7 @@
 <template>
   <div class="home">
     <div class="hero ">
-      <div class="hero-content flex-col text-white lg:flex-row">
+      <div class="hero-content py-[5rem] flex-col text-white lg:flex-row">
         <div class="flex-col">
           <p class="py-6">
             Cooperation Pure 最新发行
